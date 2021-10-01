@@ -6,7 +6,7 @@
 - **commited to lifelong learning 🧱🔨**
 - **🥅 2020 Goals: build awesome apps**
 
- <img style="display:block;margin:1rem auto;" alt="ualexon's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=aexon1999&show_icons=true&hide_border=true&theme=radical" />
+![Alexon's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexon1999&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexon1999&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
