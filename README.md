@@ -6,9 +6,8 @@
 - **commited to lifelong learning 🧱🔨**
 - **🥅 2020 Goals: build awesome apps**
 
-![Alexon's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexon1999&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexon1999&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
+![Alexon's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexon1999&show_icons=true&theme=radical)
 
 ### Languages and Tools:
 
