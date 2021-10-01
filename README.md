@@ -43,7 +43,7 @@
 
 <br>
 
-[website]: https://www.ualexon.com
-[twitter]: https://twitter.com/login
-[instagram]: https://www.instagram.com/ualexon1999/?hl=fr
-[linkedin]: https://www.linkedin.com/in/alexon-uthayakumar-9361221a2/
+[website]: https://www.ualexon.com?target=_blank
+[twitter]: https://twitter.com/login?target=_blank
+[instagram]: https://www.instagram.com/ualexon1999?target=_blank
+[linkedin]: https://www.linkedin.com/in/alexon-uthayakumar-9361221a2?target=_blank
