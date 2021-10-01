@@ -7,7 +7,6 @@
 - **🥅 2020 Goals: build awesome apps**
 
  <img style="display:block;margin:1rem auto;" alt="ualexon's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Aexon1999&show_icons=true&hide_border=true&theme=radical" />
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexon1999&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Languages and Tools:
