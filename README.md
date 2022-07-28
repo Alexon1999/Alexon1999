@@ -4,7 +4,7 @@
 
 - **passionate about coding**
 - **commited to lifelong learning 🧱🔨**
-- **🥅 2021 Goals: build awesome apps**
+- **🥅 2022 Goals: build awesome apps**
 
 <br>
 
