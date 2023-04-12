@@ -3,15 +3,22 @@
 [![Linkedin Badge](https://img.shields.io/badge/-alexon%20uthayakumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexon-uthayakumar/)](https://www.linkedin.com/in/alexon-uthayakumar/)
 [![Gmail Badge](https://img.shields.io/badge/-alexon.uthayakumar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexon.uthayakumar@gmail.com)](mailto:alexon.uthayakumar@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@jr_alexon-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jr_alexon)](https://twitter.com/jr_alexon)
-<img src="https://komarev.com/ghpvc/?username=alexon1999&label=Profile%20views&color=0e75b6&style=flat" alt="alexon1999" />
+[![](https://img.shields.io/website?color=399E5A&style=flat-square&up_message=ualexon.com&url=https://ualexon.com/)](https://ualexon.com/)  &nbsp;
+<img align='right' src="https://komarev.com/ghpvc/?username=alexon1999&label=visitors&color=0e75b6&style=flat" alt="alexon1999" />
 
-## I'm a Developer and a Data enthusiast !!
+I am a **software developer** with a passion for working with **data**. I live in Paris.
 
 - ❤️ **I like computer programming, algorithms, maths, and more recently, machine learning**
 - 🧱🔨 **commited to lifelong learning**
-- 🥅  **2023 Goals: build awesome apps**
+- 🥅  **Goals: leverage my skills to create impactful solutions that solve real-world problems**
 
 <br>
+
+## What do I do and What have I done?
+
+- Finished a Data Science course so excited to explore the field of data analysis and data science
+- Lead FullStack Developer at TFJ Technologies (a startup)
+- Freelancing for 1 year as a Web and mobile application developer
 
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
@@ -22,7 +29,7 @@
 
 <br>
 
-### Languages and Tools:
+## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -39,17 +46,6 @@
 <img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<br>
-<br>
-<br>
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br>
 
