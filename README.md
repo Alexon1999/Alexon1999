@@ -2,9 +2,9 @@
 
 ## I'm a Student and Developer !!
 
-- **passionate about coding**
+- **I like computer programming, algorithms, maths, and more recently, machine learning**
 - **commited to lifelong learning 🧱🔨**
-- **🥅 2022 Goals: build awesome apps**
+- **🥅 2023 Goals: build awesome apps**
 
 <br>
 
