@@ -12,7 +12,7 @@
 
 <br>
 
-I am a **software developer** with a passion for working with **data**. I live in Paris.
+I am a **software developer** with a passion for working with **data**.
 
 - ❤️ **I like computer programming, algorithms, maths, and more recently, machine learning**
 - 🧱🔨 **commited to lifelong learning**
