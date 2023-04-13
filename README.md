@@ -48,6 +48,8 @@ I am a **software developer** with a passion for working with **data**. I live i
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EA?style=flat-square&logo=Quarkus&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-squar&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-squar&logo=.net&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
@@ -59,6 +61,12 @@ I am a **software developer** with a passion for working with **data**. I live i
 ![Git](https://img.shields.io/badge/-Git-E44C30?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-100000?style=flat-square&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-330F63?style=flat-square&logo=gitlab&logoColor=orange)
+<br>
+
+![Mac Book](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=apple&logoColor=white)
+![iTerm2 - terminal](	https://img.shields.io/badge/iTerm2-000000?style=flat-square&logo=iterm2&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Intellij Idea](https://img.shields.io/badge/-IntelliJ%20Idea-black?style=flat-square&logo=intellij-idea)
 
 [website]: https://www.ualexon.com
 [twitter]: https://twitter.com/jr_alexon
