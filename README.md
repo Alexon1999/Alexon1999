@@ -1,3 +1,7 @@
+[website]: https://www.ualexon.com
+[twitter]: https://twitter.com/jr_alexon
+[linkedin]: https://www.linkedin.com/in/alexon-uthayakumar
+
 # <center>Hello there, I'm [Alexon][website] <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></center>
 
 [![Linkedin Badge](https://img.shields.io/badge/-alexon%20uthayakumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexon-uthayakumar/)](https://www.linkedin.com/in/alexon-uthayakumar/)
@@ -63,12 +67,13 @@ I am a **software developer** with a passion for working with **data**. I live i
 ![GitHub](https://img.shields.io/badge/-GitHub-100000?style=flat-square&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/-GitLab-330F63?style=flat-square&logo=gitlab&logoColor=orange)
 <br>
-
 ![Mac Book](https://img.shields.io/badge/mac%20os-000000?style=flat-square&logo=apple&logoColor=white)
 ![iTerm2 - terminal](	https://img.shields.io/badge/iTerm2-000000?style=flat-square&logo=iterm2&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Intellij Idea](https://img.shields.io/badge/-IntelliJ%20Idea-black?style=flat-square&logo=intellij-idea)
 
-[website]: https://www.ualexon.com
-[twitter]: https://twitter.com/jr_alexon
-[linkedin]: https://www.linkedin.com/in/alexon-uthayakumar
+<br>
+
+<div align='center'>
+ <p>Checkout my latest projects</p>
+</div>
