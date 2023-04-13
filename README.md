@@ -76,4 +76,5 @@ I am a **software developer** with a passion for working with **data**. I live i
 
 <div align='center'>
  <p>Checkout my latest projects</p>
+ <img src='mouse-scrolling.gif' />
 </div>
