@@ -75,6 +75,6 @@ I am a **software developer** with a passion for working with **data**.
 <br>
 
 <div align="center">
- <p>Checkout my latest projects</p>
+ <p>Checkout my latest projects !!</p>
  <img src="mouse-scroll-down.gif" height="70px" width="70px" />
 </div>
