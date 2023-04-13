@@ -6,12 +6,15 @@
 [![](https://img.shields.io/website?color=399E5A&style=flat-square&up_message=ualexon.com&url=https://ualexon.com/)](https://ualexon.com/)  &nbsp;
 <img align='right' src="https://komarev.com/ghpvc/?username=alexon1999&label=visitors&color=0e75b6&style=flat" alt="alexon1999" />
 
+<br>
+
 I am a **software developer** with a passion for working with **data**. I live in Paris.
 
 - ❤️ **I like computer programming, algorithms, maths, and more recently, machine learning**
 - 🧱🔨 **commited to lifelong learning**
 - 🥅  **Goals: leverage my skills to create impactful solutions that solve real-world problems**
 
+<br>
 
 ## What do I do and What have I done?
 
@@ -19,6 +22,7 @@ I am a **software developer** with a passion for working with **data**. I live i
 - Lead FullStack Developer and DevOps at TFJ Technologies (a startup)
 - Freelancing for 1 year as a Web and mobile application developer
 
+<br>
 
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
@@ -26,6 +30,8 @@ I am a **software developer** with a passion for working with **data**. I live i
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alexon1999&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexon1999&show_icons=true" alt="Alexon's GitHub stats" height="192px"  width="500px" />
 </div>
+
+<br>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
