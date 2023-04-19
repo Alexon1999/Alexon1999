@@ -25,6 +25,10 @@ I am a **software developer** with a passion for working with **data**.
 - Lead FullStack Developer and DevOps at TFJ Technologies (a startup)
 - Freelancing for 1 year as a Web and mobile application developer
 
+## Blogs
+[![My Blog Website Badge](https://img.shields.io/badge/-blog.ualexon.com-007ACC?style=for-the-badge)](https://dev.to/ualexon) &nbsp;&nbsp;
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ualexon) &nbsp;&nbsp;
+[![Dev.tp Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ualexon)
 
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
  
