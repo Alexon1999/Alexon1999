@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-alexon%20uthayakumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexon-uthayakumar/)](https://www.linkedin.com/in/alexon-uthayakumar/)
 [![Gmail Badge](https://img.shields.io/badge/-alexon.uthayakumar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexon.uthayakumar@gmail.com)](mailto:alexon.uthayakumar@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@jr_alexon-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jr_alexon)](https://twitter.com/jr_alexon)
-[![](https://img.shields.io/website?color=399E5A&style=flat-square&up_message=ualexon.com&url=https://ualexon.com/)](https://ualexon.com/)  &nbsp;
+[![Web](https://img.shields.io/website?color=399E5A&style=flat-square&up_message=ualexon.com&url=https://ualexon.com/)](https://ualexon.com/)  &nbsp;
 <img align='right' src="https://komarev.com/ghpvc/?username=alexon1999&label=visitors&color=0e75b6&style=flat" alt="alexon1999" />
 
 <br>
