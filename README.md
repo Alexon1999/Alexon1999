@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-alexon%20uthayakumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexon-uthayakumar/)](https://www.linkedin.com/in/alexon-uthayakumar/)
 [![Gmail Badge](https://img.shields.io/badge/-alexon.uthayakumar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexon.uthayakumar@gmail.com)](mailto:alexon.uthayakumar@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@jr_alexon-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jr_alexon)](https://twitter.com/jr_alexon)
-[![Web](https://img.shields.io/website?color=399E5A&style=flat-square&up_message=ualexon.com&url=https://ualexon.com/)](https://ualexon.com/)  &nbsp;
+[![Web](https://img.shields.io/website?color=399E5A&style=flat-square&up_message=ualexon.com&url=https://ualexon.com/)](https://ualexon.com/)
 <img align='right' src="https://komarev.com/ghpvc/?username=alexon1999&label=visitors&color=0e75b6&style=flat" alt="alexon1999" />
 
 <br>
@@ -26,8 +26,8 @@ I am a **software developer** with a passion for working with **data**.
 - Freelancing for 1 year as a Web and mobile application developer
 
 ## Blogs
-[![My Blog Website Badge](https://img.shields.io/badge/-blog.ualexon.com-007ACC?style=for-the-badge)](https://dev.to/ualexon) &nbsp;&nbsp;
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ualexon) &nbsp;&nbsp;
+[![My Blog Website Badge](https://img.shields.io/badge/-blog.ualexon.com-007ACC?style=for-the-badge)](https://blog.ualexon.com) &nbsp;&nbsp;
+[![Medium Badge](https://img.shields.io/badge/Medium-02b875?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ualexon) &nbsp;&nbsp;
 [![Dev.tp Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ualexon)
 
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
