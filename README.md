@@ -21,7 +21,7 @@ I am a **software developer**.
 
 ## What do I do and What have I done?
 
-- Currently Working as Full Stack Developer at Free Réseau, done DevOps missions on Scaleway, Algorithms to tackle buisness problems with Data and ML technics.
+- Currently Working as Full Stack Developer at Free Réseau with experience in DevOps (Scaleway) and in applying machine learning and data science to business problems.
 - Finished a Data Science course so excited to explore the fields of data analysis and data science
 - Lead FullStack Developer and DevOps at TFJ Technologies in a startup world.
 - Freelancing for 1 year as a Web and mobile application developer
