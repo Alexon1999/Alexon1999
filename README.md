@@ -12,17 +12,18 @@
 
 <br>
 
-I am a **software developer** with a passion for working with **data**.
+I am a **software developer**.
 
-- ❤️ **I like computer programming, algorithms, maths, and more recently, machine learning**
+- ❤️ **I like computer programming, algorithms, maths, DevOps more recently, data and machine learning**
 - 🧱🔨 **commited to lifelong learning**
-- 🥅  **Goals: leverage my skills to create impactful solutions that solve real-world problems**
+- 🥅  **Goals: leverage my skills to create impactful solutions that solve real-world problems so created a new github Organization called [optimum-os](https://github.com/optimum-os)**
 
 
 ## What do I do and What have I done?
 
+- Working as Full Stack Developer at Free Réseau, done DevOps missions on Scaleway, Algorithms to tackle buisness problems with Data and ML technics.
 - Finished a Data Science course so excited to explore the fields of data analysis and data science
-- Lead FullStack Developer and DevOps at TFJ Technologies (a startup)
+- Lead FullStack Developer and DevOps at TFJ Technologies in a startup world.
 - Freelancing for 1 year as a Web and mobile application developer
 
 ## Blogs
