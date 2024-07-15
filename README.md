@@ -24,7 +24,7 @@ I am a **software developer**.
 - Currently Working as Full Stack Developer at Free Réseau with experience in DevOps (Scaleway) and in applying machine learning and data science to business challenges.
 - Finished a Data Science course so excited to explore the fields of data analysis and data science
 - Lead FullStack Developer and DevOps at TFJ Technologies in a startup world.
-- Freelancing for 1 year as a Web and mobile application developer
+- Freelancing for 1.5 year as a Web and mobile application developer
 
 ## Blogs
 [![My Blog Website Badge](https://img.shields.io/badge/-blog.ualexon.com-007ACC?style=for-the-badge)](https://blog.ualexon.com) &nbsp;&nbsp;
