@@ -16,7 +16,7 @@ I am a **software developer**.
 
 - ❤️ **I like computer programming, algorithms, maths, DevOps more recently, data and machine learning**
 - 🧱🔨 **commited to lifelong learning**
-- 🥅  **Goals: leverage my skills to create impactful solutions that solve real-world problems so created a new github Organization called [optimum-os](https://github.com/optimum-os)**
+- 🥅  **Goals: leverage my skills to create impactful solutions that solve real-world challenges so created a new github Organization called [optimum-os](https://github.com/optimum-os)**
 
 
 ## What do I do and What have I done?
